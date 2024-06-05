@@ -1,0 +1,9 @@
+{
+  "name": "A React App Which Shows the list of Users",
+  "short_name": "User List",
+  "description": "Simple React Application with API Integration and Material-UI",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}
